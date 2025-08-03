@@ -1,3 +1,5 @@
 # Crypto-0
 
-##Crytocurrency Dashboard
+## Crytocurrency Dashboard
+
+### Jardahni Leon
