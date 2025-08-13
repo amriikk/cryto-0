@@ -15,8 +15,6 @@ _A brief one-liner describing the project._
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
