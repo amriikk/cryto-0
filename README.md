@@ -19,7 +19,7 @@ _A brief one-liner describing the project._
 ---
 
 ## 📖 About the Project
-Brief description of what the application does and its purpose.
+The Artist Tree.
 
 Example:
 > This is a full-stack web application built with Next.js, Prisma, and PostgreSQL. It demonstrates modern web development practices including server-side rendering, API routes, and database integration.
