@@ -30,7 +30,7 @@ Example:
 - **Frontend:** Next.js (React), Tailwind CSS
 - **Backend:** Next.js API Routes, Node.js
 - **Database:** PostgreSQL, Prisma ORM
-- **Other Tools:** Vercel (deployment), Git
+- **Other Tools:** Vercel (deployment), GitHub (Repo)
 
 ---
 
