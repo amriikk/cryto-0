@@ -1,6 +1,6 @@
-# Project Name
+# AuraCycle
 
-_A brief one-liner describing the project._
+Small starter app for AuraCycle — a wellbeing cycle tracker and visualizer.
 
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
@@ -58,3 +58,42 @@ cd your-repo-name
 
 # Install dependencies
 npm install
+```
+
+### Running the App
+```bash
+npm run dev
+```
+Open [http://localhost:5173](http://localhost:5173) (Vite usually opens it automatically).
+
+---
+
+## 🗂 Project Structure
+- `index.html` - app entry
+- `src/main.jsx` - React entry
+- `src/App.jsx` - main app UI
+- `src/components/Header.jsx` - header component
+- `src/styles.css` - basic styles
+
+---
+
+## 🛠 Scripts
+- `dev` - run the app in development mode
+- `build` - build the app for production
+- `start` - start the production server
+
+---
+
+## 📸 Screenshots
+// Add screenshots of your project here
+
+---
+
+## ℹ Notes & Next Steps
+- Replace placeholder UI with your features (auth, data storage, charts).
+- Add tests, linting, and CI as needed.
+
+If you'd like, I can also:
+- Add a small state-management skeleton (Context or Zustand)
+- Add routing with React Router
+- Wire a sample data store (localStorage mock) and a sample chart using Chart.js
